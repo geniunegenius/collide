@@ -1,0 +1,58 @@
+﻿  win32_platform.cpp
+C:\Users\youtu\source\repos\MapGame\MapGame\render.cpp(49,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\render.cpp(50,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\render.cpp(51,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\render.cpp(52,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,22): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,42): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,42): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,48): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,48): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,72): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,72): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,78): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,85): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,91): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,91): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,97): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,97): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(11,134): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(18,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(19,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(21,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(22,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(24,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(25,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(27,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(28,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(30,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(31,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(108,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(109,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(116,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(116,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(122,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(123,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(130,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(130,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(136,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(137,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(144,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(144,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(150,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(151,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(158,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(158,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(164,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(165,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(172,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\game.cpp(172,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\youtu\source\repos\MapGame\MapGame\win32_platform.cpp(27,90): warning C4007: 'WinMain': must be '__stdcall'
+  MapGame.vcxproj -> C:\Users\youtu\source\repos\MapGame\Debug\MapGame.exe
